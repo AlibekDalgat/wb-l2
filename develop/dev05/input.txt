@@ -1,0 +1,24 @@
+drwxr-xr-x  5 alibek alibek  4096 сен 23 10:06  BurpSuiteCommunity
+drwxrwxr-x  7 alibek alibek  4096 дек 31  2022  CLionProjects
+drwxr-xr-x  4 alibek alibek  4096 ноя 17 21:05  Desktop
+drwxr-xr-x  7 alibek alibek  4096 ноя 15 16:31  Documents
+drwxr-xr-x  5 alibek alibek 12288 ноя 17 21:04  Downloads
+drwxrwxr-x  6 alibek alibek  4096 июн 24 23:07  go
+drwxrwxr-x 12 alibek alibek  4096 ноя  8 19:47  GolandProjects
+drwxrwxr-x  3 alibek alibek  4096 мая 31 13:19  GoProjects
+drwxr-xr-x  3 alibek alibek  4096 июн 29  2022  Music
+drwxrwxr-x  3 alibek alibek  4096 мар  5  2023  PhpstormProjects
+drwxr-xr-x  7 alibek alibek 12288 ноя 17 21:03  Pictures
+-rw-rw-r--  1 alibek alibek     0 ноя 18 11:02  Projects2
+drwxr-xr-x  2 alibek alibek  4096 сен 29  2020  Public
+drwxrwxr-x  5 alibek alibek  4096 июн  6 02:17  PycharmProjects
+drwxrwxr-x  4 alibek alibek  4096 янв  6  2023  pythonProject1
+drwx------ 17 alibek alibek  4096 июл  2 20:50  snap
+drwxrwxr-x  3 alibek alibek  4096 июн 29  2021  Steam
+drwxrwxr-x  2 alibek alibek  4096 июн  9 00:05  tempgit
+drwxr-xr-x  2 alibek alibek  4096 сен 29  2020  Templates
+drwxrwxr-x  3 alibek alibek  4096 сен 21  2022  turtle-python
+drwxrwxr-x  5 alibek alibek  4096 дек  8  2022  venv
+drwxr-xr-x  2 alibek alibek  4096 окт 31 21:01  Videos
+drwx------  6 alibek alibek  4096 ноя 15 11:31 'VirtualBox VMs'
+drwxrwxr-x  3 alibek alibek  4096 ноя 16 16:30  vmware
